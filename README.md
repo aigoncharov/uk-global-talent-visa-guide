@@ -1,5 +1,7 @@
 # uk-global-talent-visa-guide
 
+**NOTE**: I am not a lawyer and have no legal background. I am in no way associated with TechNation. I do not know for certain how they assess the applications. This guide is based solely on my own research and experience. I do not and could not provide any guarantees. I do not provide any personal consultation. This write up is my best effort to reflect what I would do if I had to get the Global Talent visa again.
+
 **Hi there!**
 
 🖐️ My name is Andrey G. I am a software engineer. I came to Great Britain on a Skilled Worker visa in 2021 and transferred to a Global Talent one in March 2022. Once I made that leap, I decided I want to help others do the same. 
@@ -29,5 +31,3 @@
 Quoting TechNation, "The use of templates within your application is not acceptable (e.g. Letters of Reference, Personal Statement, Criteria Evidence, etc.). The standard required for Global Talent endorsement requires that your application be unique. The use of templates may weaken your application or potentially raise concerns regarding the validity of your application."
 
 Under no circumstances shall you share your own documents not to endanger your own visa or applications of the people you share it with. I am going to provide concrete document examples for an imaginary applicant Minus Hexonalds to keep my own visa safe. Do not ever copy these examples word-by-word! It might drop a shadow on your own application and even lead to rejection. Use the examples mostly as inspiration.
-
-**NOTE**: I am not a lawyer and have no legal background. I am in no way associated with TechNation. I do not know for certain how they assess the applications. This guide is based solely on my own research and experience. I do not and could not provide any guarantees.
